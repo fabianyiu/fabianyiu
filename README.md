@@ -1,6 +1,6 @@
 Fabian Yiu
 
-Aeronautical engineering student at Imperial College London, currently on a year in industry at Siemens, working on CFD software and numerical tools.
+Aeronautical engineering student at Imperial College London, currently on a year in industry at Siemens DISW, working on CFD software and numerical tools.
 
 Current work:
 - Neural networks implemented from first principles (autograd, backpropagation, optimisation)
