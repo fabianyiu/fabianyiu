@@ -1,16 +1,14 @@
-## Hi there 👋
+Fabian Yiu
 
-<!--
-**fabianyiu/fabianyiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aeronautical engineering student at Imperial College London, currently on a year in industry at Siemens, working on CFD software and numerical tools.
 
-Here are some ideas to get you started:
+Current work:
+- Neural networks implemented from first principles (autograd, backpropagation, optimisation)
+- Function approximation and generalisation behaviour
+- Comparison of classical numerical methods and ML surrogates
+- PyTorch used after scratch validation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- approx_Sin — neural network approximation of sin(πx) using scratch and PyTorch implementations
+- HKJC_ML — noisy real-world data ML pipelines (private)
+
