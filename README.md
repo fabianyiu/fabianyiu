@@ -6,7 +6,6 @@ Current work:
 - Neural networks implemented from first principles (autograd, backpropagation, optimisation)
 - Function approximation and generalisation behaviour
 - Comparison of classical numerical methods and ML surrogates
-- PyTorch used after scratch validation
 
 Projects:
 - approx_Sin — neural network approximation of sin(πx) using scratch and PyTorch implementations
