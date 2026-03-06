@@ -9,5 +9,5 @@ Current work:
 
 Projects:
 - approx_Sin — neural network approximation of sin(πx) using scratch and PyTorch implementations
-- HKJC_ML — noisy real-world data ML pipelines (private)
+- HKJC_ML — machine learning pipelines for noisy real-world horse racing data from the Hong Kong Jockey Club (private)
 - nn-aerofoil-surrogate-distribution-shift - using neural network to predict aerfoil aerodynamic characteristics
