@@ -13,4 +13,4 @@ Aeronautical Engineering student at Imperial College London, currently on a year
 - approx_Sin — neural network approximation of `sin(πx)` using scratch and PyTorch implementations *(Completed)*
 - HKJC_ML — machine learning pipelines for noisy real-world horse racing data from the Hong Kong Jockey Club *(Private)*
 - nn-aerofoil-surrogate-distribution-shift — neural-network surrogate modelling for aerofoil aerodynamic characteristics *(Completed)*
-- **pinn-pdes — Simulates 1D heat flow in a rod (one end heated, one end at room temperature) and compares exact, finite-difference, and PINN solvers. Investigates how loss-term weighting (PDE collocation vs IC vs BC) affects training and accuracy. Interactive Streamlit app for visualization.  *(In progress)***
+- **pinn-pdes — Simulates heat flow through rod and compares exact, finite-difference, and PINN solvers. Further investigates how loss-term weighting (PDE collocation vs IC vs BC) affects training and accuracy. Interactive Streamlit app for visualization.  *(In progress)***
